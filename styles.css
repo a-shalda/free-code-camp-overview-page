@@ -22,6 +22,7 @@ body {
 
 p {
   margin: 1rem 0;
+  color: #03131b;
 }
 
 
@@ -111,4 +112,16 @@ h1 {
 #img {
   display: block;
   max-width: 100%;
+}
+
+a:hover {
+  color: #ffb703;
+}
+
+a:active {
+  color: #fb8500;
+}
+
+p:not(p:first-of-type) {
+  color: #1d3557;
 }

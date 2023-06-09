@@ -25,6 +25,10 @@ p {
   color: #03131b;
 }
 
+figcaption {
+  text-align:left;
+}
+
 
 header {
   background-color: #023047;
